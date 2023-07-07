@@ -1,4 +1,5 @@
-[
+{
+    "produtos":[
     {
         "nome":"DIORSKIN",
         "imagem":"https://www.sephora.com.br/dw/image/v2/BFJC_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/pt_BR/dw02bf225c/images/hi-res-BR/3348901383585_-_forever_undercover_031_500px.jpg?sw=556&sh=680&sm=fit",
@@ -150,3 +151,4 @@
     
     
 ]
+}
